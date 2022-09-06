@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlbertoMartos
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Spring, APX, ASO...
-- 💞️ I’m looking to collaborate on a proyect
 - 📫 How to reach me https://www.linkedin.com/in/alberto-martos-munilla-36a674222
 
 <!---
